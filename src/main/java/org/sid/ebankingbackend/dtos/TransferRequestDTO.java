@@ -8,4 +8,5 @@ public class TransferRequestDTO {
     private String accountDestination;
     private double amount;
     private String description;
+
 }
